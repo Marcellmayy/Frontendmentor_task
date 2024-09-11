@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - The Solution URL: [https://github.com/Marcellmayy/Frontendmentor_task](https://github.com/Marcellmayy/Frontendmentor_task)
-- Live Site URL: [https://marcellmayy.github.io](https://marcellmayy.github.io)
+- Live Site URL: [https://frontendmentor-task.vercel.app/](https://frontendmentor-task.vercel.app/)
 
 ## My process
 
