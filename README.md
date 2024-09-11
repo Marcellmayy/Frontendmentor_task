@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- The Solution URL: [https://github.com/Marcellmayy/Frontendmentor_task](https://github.com/Marcellmayy/Frontendmentor_task)
+- Live Site URL: [https://marcellmayy.github.io](https://marcellmayy.github.io)
 
 ## My process
 
@@ -48,13 +48,13 @@ I would continue learning about styling and the grids to enable me undertand how
 
 ### Useful resources
 
-- [Eresource 1](https://www.googlefonts.com) - This helped me for get the html and css code for embedding the font family and styles. I really liked this pattern and will use it going forward.
+- [Googlefonts](https://www.googlefonts.com) - This helped me for get the html and css code for embedding the font family and styles. I really liked this pattern and will use it going forward.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Marcellmayy)
-- Twitter - [@yourusername](https://www.twitter.com/iam_marcellmay)
+- Frontend Mentor - [@Marcellmayy](https://www.frontendmentor.io/profile/Marcellmayy)
+- Twitter - [@iam_marcellmay](https://www.twitter.com/iam_marcellmay)
 
 
 
