@@ -6,6 +6,11 @@
     }
   body {
     background-color: #d6e2f0;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh;
   }
 
   #qr-container{
@@ -21,10 +26,16 @@
 
   .qr-code-img{
     text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    
   }
 
   .qr-code-img img{
     width: 100%;
+    max-width: fit-content;
     height: 100%;
     padding: 1rem;
     border-radius: 30px;
